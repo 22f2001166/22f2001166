@@ -4,7 +4,7 @@
 
 🚀 Passionate about tech and engineering.
 
-👯 I’m looking to collaborate on innovative ideas and projects.
+👯 I am working on real world projects and innovative ideas.
 
 📫 This is my [Portfolio](https://portfolio-brown-ten-49.vercel.app)
 
